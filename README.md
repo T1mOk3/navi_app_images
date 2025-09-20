@@ -30,6 +30,8 @@ If you have any thoughts, suggestions, bug reports, or questions, please feel fr
 *   **Developer:** Timofei Druzhin
 *   **Email:** t-druzhin@mail.ru or 3364900995@qq.com
 
+---
+
 ### 📥 Download & Installation
 
 1.  Download the latest release APK
