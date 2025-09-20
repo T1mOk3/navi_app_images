@@ -27,7 +27,6 @@ Welcome to use the MSU-BIT Campus Navigator! Your experience and feedback are hi
 
 If you have any thoughts, suggestions, bug reports, or questions, please feel free to reach out:
 
-*   **Developer:** Timofei Druzhin
 *   **Email:** t-druzhin@mail.ru or 3364900995@qq.com
 
 ---
