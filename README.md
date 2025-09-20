@@ -1,4 +1,4 @@
-# MSU-PPI Campus Navigator
+# MSU-BIT Campus Navigator
 
 A mobile application for navigation inside the university campus using Wi-Fi signals instead of GPS.
 
