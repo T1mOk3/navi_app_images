@@ -34,7 +34,7 @@ If you have any thoughts, suggestions, bug reports, or questions, please feel fr
 
 ### 📥 Download & Installation
 
-1.  Download the latest release APK
+1.  Download the latest release APK from [here](./apk/my_campus_navi-release.apk)
 2.  Transfer the APK file to your Android device.
 3.  Open the file to install the application (you may need to allow installation from "Unknown Sources" in your settings).
 4.  Open the app and grant the necessary location and Wi-Fi permissions.
