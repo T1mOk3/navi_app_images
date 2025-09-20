@@ -1,23 +1,23 @@
-# Навигатор по кампусу МГУ-ППИ
+# MSU-PPI Campus Navigator
 
-Мобильное приложение для навигации внутри университетского кампуса с использованием Wi-Fi сигналов вместо GPS.
+A mobile application for navigation inside the university campus using Wi-Fi signals instead of GPS.
 
-## 📋 О проекте
+## 📋 About the Project
 
-Приложение позволяет определять местоположение пользователя и строить маршруты между ключевыми точками кампуса с помощью анализа Wi-Fi сигналов. Особенно актуально для навигации внутри помещений, где GPS сигнал недоступен или неточен.
+The application allows determining the user's location and building routes between key points on the campus by analyzing Wi-Fi signals. It is especially relevant for indoor navigation where GPS signal is unavailable or inaccurate.
 
-## ✨ Основные функции
+## ✨ Key Features
 
-- 📍 Определение местоположения по Wi-Fi сигналам
-- 🗺️ Интерактивная карта кампуса с ключевыми объектами
-- 🚀 Построение маршрутов между аудиториями и корпусами
-- 🔍 Поиск и сортировка локаций
+- 📍 Location detection via Wi-Fi signals
+- 🗺️ Interactive campus map with key points of interest
+- 🚀 Building routes between classrooms and buildings
+- 🔍 Location search and sorting
 
-## 🛠️ Технологии
+## 🛠️ Technologies
 
-- **Язык разработки:** Kotlin
-- **Среда разработки:** Android Studio
-- **База данных:** SQLite
-- **Методы позиционирования:** 
-  - Детерминированный метод (взвешенное среднее по силе сигнала)
-  - Вероятностный метод (фильтрация по сетке вероятностей)
+- **Development Language:** Kotlin
+- **Development Environment:** Android Studio
+- **Database:** SQLite
+- **Positioning Methods:**
+  - Deterministic method (signal strength-weighted average)
+  - Probabilistic method (probability grid filtering)
