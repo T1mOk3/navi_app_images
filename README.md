@@ -21,3 +21,18 @@ The application allows determining the user's location and building routes betwe
 - **Positioning Methods:**
   - Deterministic method (signal strength-weighted average)
   - Probabilistic method (probability grid filtering)
+
+## 🤝 Feedback & Contact
+Welcome to use the MSU-BIT Campus Navigator! Your experience and feedback are highly valuable for improving this application.
+
+If you have any thoughts, suggestions, bug reports, or questions, please feel free to reach out:
+
+*   **Developer:** Timofei Druzhin
+*   **Email:** t-druzhin@mail.ru or 3364900995@qq.com
+
+### 📥 Download & Installation
+
+1.  Download the latest release APK
+2.  Transfer the APK file to your Android device.
+3.  Open the file to install the application (you may need to allow installation from "Unknown Sources" in your settings).
+4.  Open the app and grant the necessary location and Wi-Fi permissions.
